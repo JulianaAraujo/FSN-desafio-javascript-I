@@ -125,7 +125,4 @@ const aprovarAluno = (nomeAluno) => {
 
 }
 
-aplicarNota("Henrique")
-=======
-// implementação
->>>>>>> 79a1b43993aa78a0e46b44d061146080ad395b87
+
